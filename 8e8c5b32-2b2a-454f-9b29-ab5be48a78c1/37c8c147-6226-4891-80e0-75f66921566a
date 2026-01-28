@@ -1,0 +1,5 @@
+/** <FontResolver>.init **/
+
+troikaDefine(
+function init(c,e,t){return c(e,t())}
+)
